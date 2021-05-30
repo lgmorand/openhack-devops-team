@@ -26,5 +26,5 @@ jobs:
       with:
         context: ./apis/poi/web
         push: true
-        tags: user/poi:latest
+        tags: lgmorand/poi:latest
     
